@@ -1,1 +1,1 @@
-# competition.com
+# competition
